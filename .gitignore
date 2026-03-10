@@ -2,4 +2,4 @@ data/
 venv/
 .ipynb_checkpoints/
 Notes.txt
-__pycache__
+__pycache__/
