@@ -1,5 +1,4 @@
 data/
-venv/
 .ipynb_checkpoints/
 notes/
 __pycache__/

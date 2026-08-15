@@ -49,6 +49,7 @@ Important limitations include:
 - The dataset does not contain a unique invoice-line identifier, making the legitimacy of exact duplicate rows uncertain.
 - A substantial proportion of records has no CustomerID, so customer-level findings apply only to identified customers.
 - Cancellation reasons are unavailable.
+- It is not specified whether cancellations are done on whole orders or if they can be done partially on each order transaction.
 - The data does not confirm payment, fulfilment, delivery, or refund status.
 - Product catalogue, inventory, cost, and historical pricing references are unavailable.
 - Some stock codes represent non-product financial or operational entries.
